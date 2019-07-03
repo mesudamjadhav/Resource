@@ -1,0 +1,17 @@
+ {  "Aditya":{  
+      "firstname":"Aditya",
+      "lastname":"Dogara",
+      "address" : {
+      	"city" : "Pune",
+      	"pin" :123456
+      }
+   },
+   "Sudam":{  
+      "firstname":"Sudam",
+      "lastname":"Jadhav",
+      "address" : {
+      	"city" : "Mumbai",
+      	"pin" :758417
+      }
+   }
+}
